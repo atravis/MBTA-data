@@ -1,0 +1,14 @@
+MBTA-data
+
+A project to create and load a database for working with transit data probided by the Massachusetts Bay Transportation Autority (MBTA).
+This includes GTFS files, csv files with real-time data, static csv files to supports the real-time data, and RSS feeds with service alerts.
+
+The end result should be a database that will support a web site and mobile apps for transit riders.
+
+For more information about GTFS spec:  http://code.google.com/transit/spec/transit_feed_specification.html
+For more information about GTFS project:  http://code.google.com/p/googletransitdatafeed/
+For more information about developing with MBTA data see:  http://www.mbta.com/rider_tools/developers/
+Inital ideas for the GTFS database and loading data came from the Perl-GTFS project: https://github.com/perkinsms/Perl-GTFS
+
+More code coming soon...
+
